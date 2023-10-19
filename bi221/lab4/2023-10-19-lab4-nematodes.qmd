@@ -1,0 +1,134 @@
+---
+title: "Lab 4 - Nematodes!"
+author: "Giovanni Alberto Crestani"
+format:
+  revealjs:
+    transition: none
+    slide-number: c/t
+    incremental: true
+    theme: [default, ../../custom.scss]
+    embed-resources: true
+editor: visual
+---
+
+## Lab 4: Data Collection and DNA Extraction
+
+## Housekeeping
+
+Skills demo (week 4)\
+\
+
+. . .
+
+Due today
+
+-   Lab 4 pre-lab
+
+-   Annotated Bibliography Assignment\
+    \
+
+. . .
+
+Due next week
+
+-   Lab 5 pre-lab
+
+## Pre-lab 4
+
+### Dr. Shantá D. Hinton
+
+![](images/hinton.png)
+
+## Annotated Bibliography
+
+Discuss your articles (10 min) - take home message and how to incorporate the article in the project
+
+## Lab 4 Objectives
+
+-   Start your experiment (data collection)
+-   DNA extraction (new molcular bio skill)
+
+## Centrifuge - it's all about *balance*...
+
+![](images/centrifugation.png)
+
+## Supernatant has the DNA
+
+![](images/supernatant.png)
+
+## Today's Activities
+
+-   Use the dissecting microscope to find/isolate nematodes. Collect data about them!
+    -   Nematode counts (abundance)
+    -   Different species (richness)
+    -   Behaviour (speed, movement)
+    -   Morphology (mouthparts, size)
+-   Be careful when doing the burrito surgery! Do not disturb the bottom of the falcon tube.
+-   Careful with the pipette - don't blow air inside your sample. Squeeze before putting it inside the tube.
+
+## I found a nematode! Now what?
+
+-  VERY CAREFULLY, using a micropipette (set it to 20 uL), "fish" the nematode.
+-  Label a 1.5 mL microcentrifuge tube with your sample identifier. Put the nematode inside the tube. Add WLB and grind. Spin down. Remove fluid. Put it on ice until all samples are complete.
+-  Optional: if you have more than one nematode, put it in a mount slide. Observe it under the compound light microscope. <span style="color:blue;">[*Remember the iris!!*]{.fragment .fade-in}</span>
+
+## DNA Extraction - LABEL EVERYTHING
+-  Wear gloves! (to protect **your samples**, not you)
+-  Add the Worm Lysis Buffer - it breaks the cells of the nematodes.
+-  Grind the nematodes with the micropestle. Use a sterile tip. Be careful with the tools, they break easily!
+-  Spin down in microcentrifuge
+-  Collect supernatant and transfer it to a **labeled** PCR tube.
+-  Put tubes on ice.
+
+## p-value?
+*The p-value is a number, calculated from a statistical test, that describes how likely you are to have found a particular set of observations if the null hypothesis were true.*\
+\
+
+. . .
+
+Usually, your null hypothesis (**H0**) is that there is no difference between your samples - it is the simplest configuration you can imagine!\
+\
+
+. . . 
+
+The alternative hypothesis is that there is a difference between your samples.
+
+## p-value!
+::: {.fragment .semi-fade-out fragment-index=4}
+If the *p-value* is lower than a specified threshold (usualy 0.05), we **reject our null hypothesis**. If it is higher, we **accept our null hypothesis**.  <span style="color:red;">[wait, what?]{.fragment .fade-in fragment-index=1}</span>\
+\
+:::
+
+. . . 
+
+::: {.fragment .fade-in fragment-index=2}
+**WE CAN NEVER ACCEPT/PROVE A HYPOTHESIS! WE CAN ONLY REJECT/FAIL TO REJECT IT!!**\
+\
+:::
+. . .
+
+::: {.fragment .fade-in fragment-index=3}
+If the *p-value* is lower than a specified threshold (usualy 0.05), we **reject our null hypothesis**. If it is higher, we **fail to reject our null hypothesis**.
+:::
+
+## Data!!
+Let's test if there's any difference in abundance between your samples. What is your H0?\
+\
+
+. . .
+
+We are using Excel for this. Follow your manual's instructions for the formulas.\
+\
+
+. . .
+
+We will later graph it. Show us your graph so we can give you the signature!\
+\
+
+## Clean-up
+-  Wash all glassware and Falcon tubes
+-  Dispose of soil and kimwipes in the garbage
+-  Keep the meshes!
+-  Dispose of sharp, glass and garbage in appropriate places
+-  Organize items on trays, as they were prior you started
+
